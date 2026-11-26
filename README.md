@@ -16,12 +16,12 @@
 ## 在另一台电脑上使用
 
 1. 在仓库首页点击 **Code → Download ZIP**，然后解压。
-2. 找到包含 SKILL.md 的文件夹，将它重命名为 **antigravity-wallpaper-engine**。
+2. 找到包含 SKILL.md 的文件夹，将它重命名为 **antigravity-wallpaper-engine**。（把压缩包下载下来，喂给ai即可）
 3. 将这个文件夹放进下面的目录。可以把路径粘贴到 Windows 文件资源管理器的地址栏，若目录尚不存在，先创建它。
 
     `%USERPROFILE%\.codex\skills\`
 
-4. 打开一个新的 Codex 聊天，复制并发送下面这句话。
+4. 打开一个新的 Codex （任何一个ai，告诉它安装即可）聊天，复制并发送下面这句话。
 
     > 使用 $antigravity-wallpaper-engine 设置我的 Antigravity 工作区壁纸。
 

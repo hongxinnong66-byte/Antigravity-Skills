@@ -1,4 +1,4 @@
-# Antigravity 工作区壁纸
+# Antigravity 工作区联动 Wallpaper Engine 更换动态壁纸
 
 把 Wallpaper Engine 的订阅壁纸用作 Antigravity 工作区背景。可以跟随桌面，也可以给工作区单独选一张。
 

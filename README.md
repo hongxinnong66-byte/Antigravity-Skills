@@ -5,7 +5,9 @@
 **适用环境** · Windows · Antigravity 桌面版 2.35.2 · Wallpaper Engine
 
 ## 可以怎么玩？
-
+## 效果预览
+<img width="1072" height="650" alt="image" src="https://github.com/user-attachments/assets/cec0b394-c14f-4431-aa0c-f2a12fe24c6d" />
+<img width="1066" height="649" alt="image" src="https://github.com/user-attachments/assets/a33bb51b-aaaa-4896-8545-1305edf4ef9d" />
 - **独立选图**　从订阅图库挑选工作区壁纸，桌面可以用另一张。
 - **动态播放**　视频壁纸静音循环播放。场景和网页壁纸显示项目预览，有 GIF 预览时也能动起来。
 - **随机轮换**　打开「随机播放」，工作区可见时每分钟换一张。
